@@ -8,3 +8,5 @@ temp/
 .DS_Store
 Thumbs.db
 debug.log
+
+!pull_request_template.md
